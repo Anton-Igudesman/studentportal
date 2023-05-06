@@ -67,7 +67,7 @@ component {
 	 * ORM + Datasource Settings
 	 * --------------------------------------------------------------------------
 	 */
-	this.datasource = "sql9615819";
+	this.datasource = "heroku_a82607e5bd0ea3f";
 
 	/**
 	 * Fires when the application starts
