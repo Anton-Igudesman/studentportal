@@ -1,5 +1,20 @@
 {
+	"name": "app.json",
+	"description": "adding box install script",
 	"scripts": {
-		"postdeploy": "box install"
-	}
-}
+	  "postdeploy": "box install"
+	},
+	"env": {},
+	"formation": {
+	  "web": {
+		"quantity": 1
+	  }
+	},
+	"addons": [],
+	"buildpacks": [
+	  {
+		"url": "https://github.com/Ortus-Solutions/heroku-buildpack-commandbox.git"
+	  }
+	],
+	"stack": "heroku-22"
+  }
