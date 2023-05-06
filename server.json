@@ -1,0 +1,14 @@
+{
+    "jvm":{
+        "heapsize":"300"
+    },
+    "name":"CommBox",
+    "web":{
+        "http":{
+            "port":"63608"
+        },
+        "rewrites":{
+            "enable":"true"
+        }
+    }
+}

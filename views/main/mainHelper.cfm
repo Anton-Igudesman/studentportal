@@ -1,0 +1,1 @@
+<div class="text-warning">Use this administration page to search student record database</div>

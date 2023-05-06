@@ -1,0 +1,26 @@
+{
+    "dependencies":{
+        "BCrypt":"^3.1.0+4",
+        "cbmessagebox":"^4.0.0+58",
+        "coldbox":"^6.8.1+5",
+        "commandbox-migrations":"^4.0.0"
+    },
+    "devDependencies":{
+        "cfmigrations":"^4.0.0",
+        "route-visualizer":"^2.0.0+6",
+        "testbox":"^4.5.0+5"
+    },
+    "installPaths":{
+        "BCrypt":"modules/BCrypt/",
+        "cbmessagebox":"modules/cbmessagebox/",
+        "cfmigrations":"modules/cfmigrations/",
+        "coldbox":"coldbox/",
+        "route-visualizer":"modules/route-visualizer/",
+        "testbox":"testbox/"
+    },
+    "location":"",
+    "name":"CommBox",
+    "scripts":{},
+    "slug":"commbox",
+    "version":"1.0.0"
+}

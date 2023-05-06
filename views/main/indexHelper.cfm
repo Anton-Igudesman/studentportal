@@ -1,0 +1,2 @@
+<!--- This is the home helper by convention. Use it for any helper methods you want for the view only. --->
+<div class="text-primary">Enter a new student record from the Registration link in the navigation pane above</div>
